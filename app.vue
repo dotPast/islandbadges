@@ -7,7 +7,7 @@
       <template #header>
         <div class="flex justify-between">
           <UButtonGroup>
-            <UButton label="All Badges" icon="tabler:medal"/>
+            <UButton label="All Badges" icon="tabler:medal" to="/badges"/>
             <UButton label="Search" icon="tabler:search" @click="searchOpen = true"/>
           </UButtonGroup>
           <ColorScheme>
