@@ -6,13 +6,17 @@
     <UCard class="mt-10">
       <template #header>
         <div class="flex justify-between">
-          <h1>Welcome to Nuxt UI Starter</h1>
+          <UButtonGroup>
+            <UButton label="All Badges" icon="tabler:medal"/>
+            <UButton label="Search" icon="tabler:search" @click="searchOpen = true"/>
+          </UButtonGroup>
           <ColorScheme>
             <USelect v-model="$colorMode.preference" :options="['system', 'light', 'dark']" />
           </ColorScheme>
         </div>
       </template>
       <NuxtPage />
+      
     </UCard>
   </UContainer>
 </template>
