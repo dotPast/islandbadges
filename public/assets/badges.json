@@ -1,23 +1,27 @@
 [
     {
+        "id": "missing",
         "name": "Missing Badge",
         "icon": "/assets/badges/missing.png",
         "description": "Badge Description",
         "solution": "Badge Description"
     },
     {
+        "id": "test1",
         "name": "Test 1",
         "icon": "/assets/badges/test1.png",
         "description": "Test Description 1",
         "solution": "Test Solution 1"
     },
     {
+        "id": "test2",
         "name": "Test 2",
         "icon": "/assets/badges/test1.png",
         "description": "Test Description 1",
         "solution": "Test Solution 1"
     },
     {
+        "id": "test3",
         "name": "Test 3",
         "icon": "/assets/badges/test1.png",
         "description": "Test Description 3",
