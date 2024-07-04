@@ -1,13 +1,5 @@
 [
     {
-        "id": "missing",
-        "label": "Missing Badge",
-        "badgeIcon": "/assets/badges/missing.png",
-        "description": "Wow, you found a missing badge! This is just a placeholder if something goes wrong.",
-        "solution": "If this is supposed to be a real badge, open an issue on the GitHub repository of IslandBadges.",
-        "link": "/badge/missing"
-    },
-    {
         "id": "test1",
         "label": "Test 1",
         "badgeIcon": "/assets/badges/test1.png",
