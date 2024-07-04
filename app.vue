@@ -23,7 +23,6 @@
 
 <script setup lang="ts">
 import badges from './public/assets/badges.json';
-badges.shift()
 
 var searchOpen = ref(false)
 const commandPaletteRef = ref()
