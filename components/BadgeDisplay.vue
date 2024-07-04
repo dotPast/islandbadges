@@ -9,7 +9,7 @@ export default defineComponent({
   props: {
     name: {
       type: String,
-      default: () => "Missing Badge",
+      default: () => "The Badge is missing a name. Open an issue on GitHub repository of IslandBadges.",
     },
     icon: {
       type: String,
@@ -17,11 +17,11 @@ export default defineComponent({
     },
     description: {
       type: String,
-      default: () => "?",
+      default: () => "The badge is missing a description. Open an issue on GitHub repository of IslandBadges.",
     },
     solution: {
       type: String,
-      default: () => "?",
+      default: () => "The badge is missing a solution. Open an issue on GitHub repository of IslandBadges.",
     }
   }
 })
