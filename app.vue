@@ -36,5 +36,5 @@ const groups = computed(() =>
   ].filter(Boolean))
 
 function onSelect (option) {
-  window.open(option.link)
+  window.open(option.link, "_self")
 }</script>
