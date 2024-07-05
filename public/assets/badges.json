@@ -5,6 +5,7 @@
         "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 1",
         "reward": 30,
+        "trophyType": "bonus",
         "obtainable": true,
         "link": "/badge/test1"
     },
@@ -14,6 +15,7 @@
         "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 2",
         "reward": 0,
+        "trophyType": "bonus",
         "obtainable": false,
         "link": "/badge/test2"
     },
@@ -23,6 +25,7 @@
         "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 3",
         "reward": 35,
+        "trophyType": "bonus",
         "obtainable": true,
         "link": "/badge/test3"
     },
@@ -32,6 +35,7 @@
         "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 4",
         "reward": 25,
+        "trophyType": "skill",
         "obtainable": true,
         "link": "/badge/test4"
     },
@@ -41,6 +45,7 @@
         "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 5",
         "reward": 10,
+        "trophyType": "skill",
         "obtainable": true,
         "link": "/badge/test5"
     },
@@ -50,6 +55,7 @@
         "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 6",
         "reward": 0,
+        "trophyType": "skill",
         "obtainable": true,
         "link": "/badge/test6"
     }
