@@ -34,14 +34,14 @@
 </template>
 
 <script lang="ts" setup>
-import bbBadges from '../public/assets/list/bb.json';
-import dbBadges from '../public/assets/list/db.json';
-import generalBadges from '../public/assets/list/general.json';
-import hitwBadges from '../public/assets/list/hitw.json';
-import pkwBadges from '../public/assets/list/pkw.json';
-import rsrBadges from '../public/assets/list/rsr.json';
-import sbBadges from '../public/assets/list/sb.json';
-import tgttosBadges from '../public/assets/list/tgttos.json';
+import bbBadges from '../public/assets/badges/list/bb.json';
+import dbBadges from '../public/assets/badges/list/db.json';
+import generalBadges from '../public/assets/badges/list/general.json';
+import hitwBadges from '../public/assets/badges/list/hitw.json';
+import pkwBadges from '../public/assets/badges/list/pkw.json';
+import rsrBadges from '../public/assets/badges/list/rsr.json';
+import sbBadges from '../public/assets/badges/list/sb.json';
+import tgttosBadges from '../public/assets/badges/list/tgttos.json';
 </script>
 
 <style></style>
