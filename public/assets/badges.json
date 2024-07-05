@@ -6,8 +6,7 @@
         "solution": "Test Solution 1",
         "reward": 30,
         "trophyType": "bonus",
-        "obtainable": true,
-        "link": "/badge/test1"
+        "obtainable": true
     },
     {
         "id": "test2",
@@ -16,8 +15,7 @@
         "solution": "Test Solution 2",
         "reward": 0,
         "trophyType": "bonus",
-        "obtainable": false,
-        "link": "/badge/test2"
+        "obtainable": false
     },
     {
         "id": "test3",
@@ -26,8 +24,7 @@
         "solution": "Test Solution 3",
         "reward": 35,
         "trophyType": "bonus",
-        "obtainable": true,
-        "link": "/badge/test3"
+        "obtainable": true
     },
     {
         "id": "test4",
@@ -36,8 +33,7 @@
         "solution": "Test Solution 4",
         "reward": 25,
         "trophyType": "skill",
-        "obtainable": true,
-        "link": "/badge/test4"
+        "obtainable": true
     },
     {
         "id": "test5",
@@ -46,8 +42,7 @@
         "solution": "Test Solution 5",
         "reward": 10,
         "trophyType": "skill",
-        "obtainable": true,
-        "link": "/badge/test5"
+        "obtainable": true
     },
     {
         "id": "test6",
@@ -56,8 +51,7 @@
         "solution": "Test Solution 6",
         "reward": 0,
         "trophyType": "skill",
-        "obtainable": true,
-        "link": "/badge/test6"
+        "obtainable": true
     }
 
 ]
