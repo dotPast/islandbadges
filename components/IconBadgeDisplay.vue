@@ -19,7 +19,7 @@ export default defineComponent({
     },
     link: {
       type: String,
-      default: () => "/badge/missing"
+      default: () => "/badge/missing/missing"
     }
   }
 })
