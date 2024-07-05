@@ -37,4 +37,5 @@ const groups = computed(() =>
 
 function onSelect (option) {
   window.open(option.link, "_self")
-}</script>
+}
+</script>
