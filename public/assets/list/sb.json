@@ -1,0 +1,57 @@
+[
+    {
+        "id": "test1",
+        "label": "Test 1",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 1",
+        "reward": 30,
+        "trophyType": "bonus",
+        "obtainable": true
+    },
+    {
+        "id": "test2",
+        "label": "Test 2",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 2",
+        "reward": 0,
+        "trophyType": "bonus",
+        "obtainable": false
+    },
+    {
+        "id": "test3",
+        "label": "Test 3",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 3",
+        "reward": 35,
+        "trophyType": "bonus",
+        "obtainable": true
+    },
+    {
+        "id": "test4",
+        "label": "Test 4",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 4",
+        "reward": 25,
+        "trophyType": "skill",
+        "obtainable": true
+    },
+    {
+        "id": "test5",
+        "label": "Test 5",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 5",
+        "reward": 10,
+        "trophyType": "skill",
+        "obtainable": true
+    },
+    {
+        "id": "test6",
+        "label": "Test 6",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 6",
+        "reward": 0,
+        "trophyType": "skill",
+        "obtainable": true
+    }
+
+]
