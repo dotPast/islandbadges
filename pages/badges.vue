@@ -1,10 +1,5 @@
 <template>
-  <div>
-    <div v-for="data in badges">
-      <BadgeDisplay :name="data.label" :icon="data.badgeIcon" :description="data.description" :solution="data.solution" />
-    </div>
-    
-  </div>
+  <IconBadgeDisplay :name="data.label" :icon="data.badgeIcon" :link="data.link" v-for="data in badges"/>
 </template>
 
 <script lang="ts" setup>
