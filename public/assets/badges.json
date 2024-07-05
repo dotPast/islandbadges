@@ -25,6 +25,33 @@
         "reward": 35,
         "obtainable": true,
         "link": "/badge/test3"
+    },
+    {
+        "id": "test4",
+        "label": "Test 4",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 4",
+        "reward": 25,
+        "obtainable": true,
+        "link": "/badge/test4"
+    },
+    {
+        "id": "test5",
+        "label": "Test 5",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 5",
+        "reward": 10,
+        "obtainable": true,
+        "link": "/badge/test5"
+    },
+    {
+        "id": "test6",
+        "label": "Test 6",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 6",
+        "reward": 0,
+        "obtainable": true,
+        "link": "/badge/test6"
     }
 
 ]
