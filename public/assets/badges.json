@@ -2,25 +2,29 @@
     {
         "id": "test1",
         "label": "Test 1",
-        "badgeIcon": "/assets/badges/test1.png",
-        "description": "Test Description 1",
+        "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 1",
+        "reward": 30,
+        "obtainable": true,
         "link": "/badge/test1"
     },
     {
         "id": "test2",
         "label": "Test 2",
-        "badgeIcon": "/assets/badges/test1.png",
-        "description": "Test Description 1",
-        "solution": "Test Solution 1",
+        "badgeIcon": "/assets/badges/missing.png",
+        "solution": "Test Solution 2",
+        "reward": 0,
+        "obtainable": false,
         "link": "/badge/test2"
     },
     {
         "id": "test3",
         "label": "Test 3",
-        "badgeIcon": "/assets/badges/test1.png",
-        "description": "Test Description 3",
+        "badgeIcon": "/assets/badges/missing.png",
         "solution": "Test Solution 3",
+        "reward": 35,
+        "obtainable": true,
         "link": "/badge/test3"
     }
+
 ]
